@@ -1,5 +1,5 @@
 ## Tailscale
-Version 1.66.4 update!
+Version 1.68.0 update!
 
 Tailscale project is forked from the [https://github.com/immortalwrt/packages/tree/master/net/tailscale](https://github.com/immortalwrt/packages/tree/master/net/tailscale).
 
