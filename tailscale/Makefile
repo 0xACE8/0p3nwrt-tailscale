@@ -12,7 +12,7 @@ PKG_VERSION:=1.68.0
 PKG_RELEASE:=$(AUTORELEASE)
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=https://codeload.github.com/tailscale/tailscale/tar.gz/v$(PKG_VERSION)
+PKG_SOURCE_URL:=https://codeload.github.com/tailscale/tailscale/tar.gz/v$(PKG_VERSION)?
 PKG_HASH:=b217e4190e38b9b9799c7749307d207385979ee6da95a16634fc7279d1658314
 
 PKG_MAINTAINER:=Jan Pavlinec <jan.pavlinec1@gmail.com>
